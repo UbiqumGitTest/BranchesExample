@@ -1,0 +1,17 @@
+.container h1{
+	font-family: fantasy;
+    color: white;
+    text-align: center;
+}
+
+body{
+	background-color: #d66ac5c2;
+}
+
+.container img{
+	display: block;
+	margin-top: 2%;
+    margin-left: auto;
+    margin-right: auto;
+	width: 50%;
+}
