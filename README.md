@@ -13,7 +13,7 @@ You will have to clone this repository so you can work with it.
 Once this is done you will create a new branch to work on the file you get assigned
 - HTMLfeature for the person working on html
 - STYLEfeature for the person working on css
--JSfeature for the person working on the js
+- JSfeature for the person working on the js
 
 Every member of the team will work on different files.
 
