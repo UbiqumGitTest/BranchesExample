@@ -1,5 +1,7 @@
 **This is an exercise to work with branches.
 
+(Hint: In order to copy just one branch use git clone -b <branch> <url>)
+
 First of all you will be given permission to work in this repository.
 This repository contains:
 	-index.html
