@@ -8,7 +8,7 @@ This repository contains:
 	-main.js
 	-images directory
 
-You will have to clone this repository so you can work with it.
+You will have to clone this repository so you can work with it ( make sure you are cloning the develop branch)
 
 Once this is done you will create a new branch from to work on the file you get assigned
 - HTMLfeature for the person working on html
